@@ -9,6 +9,6 @@ I based this off of a flip flop circuit I saw online. I took that design, added 
 
 ![image](https://github.com/user-attachments/assets/9fc0480b-3f06-439a-9832-10e058b8a218)
 
-For this project, I used 3 capacitors, 6 resistors, 3 leds, 3 NPN transitors, a potentiometer, and a battery holder! Detailed Bill of Materials in the repo.
+For this project, I used 3 capacitors (10uf), 6 resistors (3 220ohm and 3 4.7kohm), 3 leds, 3 NPN transitors, a potentiometer, and a battery holder! Detailed Bill of Materials in the repo.
 
 For verification for HackClub Solder YSWS (http://solder.hackclub.com/), my slack username is Melodic.
